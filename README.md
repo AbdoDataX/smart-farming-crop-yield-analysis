@@ -1,6 +1,6 @@
 # Smart Farming Sensor Data Analysis 🌾📊
 
-![Dashboard Png (2)](https://github.com/user-attachments/assets/9cef1f83-0b70-4f5b-9114-ced3549d9e32)
+![Dashboard Pngg](https://github.com/user-attachments/assets/05f77994-9f7a-4b39-9cc1-f9c68cbfdcc3)
 
 
 ## 📌 Project Overview
