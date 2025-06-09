@@ -64,7 +64,7 @@ The dataset contains the following columns:
 ## 👤 Author
 
 **Abdelrahman Abdallah**  
-Data Analyst | Excel & Power BI Enthusiast | Lifelong Learner  
+Data Analyst 
 📧 Email: abdelrahmanabdallah811200@gmail.com  
 🌐 LinkedIn: [Abdallah on LinkedIn](https://www.linkedin.com/in/abdallah-datavibes)  
 💻 GitHub: [AbdoDataX](https://github.com/AbdoDataX)
