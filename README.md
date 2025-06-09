@@ -1,5 +1,8 @@
 # Smart Farming Sensor Data Analysis 🌾📊
 
+![Dashboard Png (2)](https://github.com/user-attachments/assets/9cef1f83-0b70-4f5b-9114-ced3549d9e32)
+
+
 ## 📌 Project Overview
 
 This project focuses on analyzing smart farming sensor data to understand how environmental factors affect crop yield. The dataset is sourced from Kaggle and includes detailed sensor readings such as rainfall, temperature, humidity, NDVI, soil moisture, and irrigation types.
